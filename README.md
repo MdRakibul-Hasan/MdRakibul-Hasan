@@ -63,7 +63,7 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" width="50%" />&nbsp;&nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" width="50%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" width="50%" />
 </div>
 
