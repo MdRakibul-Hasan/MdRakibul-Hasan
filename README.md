@@ -20,10 +20,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wordpress-web-developer-remote/">
     <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/link%20din.jpg" alt="LinkedIn" width="120px" height="35px">
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="mailto:rakibulhassan847@gmail.com">
     <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/gmail.jpg" alt="Email" width="120px" height="35px">
-  </a>
+  </a>&nbsp;&nbsp;
    <a href="skype:rakibulhassan847?chat">
     <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/skype.jpg" alt="skype:rakibulhassan847" width="120px" height="35px">
   </a>
@@ -52,20 +52,19 @@
 
 - Moreover, I proficiently utilize Illustrator and Photoshop for any graphical requirements in my projects.
 
-<br><br>
+<br>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
 
 </p>
 
 
-<br><br>
+<br>
 
-<p align="center">
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" width="50%" />&nbsp;&nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" width="50%" />
 </div>
 
-</p>
 
