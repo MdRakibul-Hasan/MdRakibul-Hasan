@@ -42,7 +42,17 @@
 </p>
 
 <br><br>
+### 📘 About me.
 
+- I possess skills in React, Java, and Tailwind, coupled with a penchant for Arduino Uno programming.
+
+- Proficient in Wordpress CMS technology, I specialize in domain, hosting, cPanel, and SSL management. 
+
+- Additionally, I have expertise in Mailchimp Automation. 
+
+- Moreover, I proficiently utilize Illustrator and Photoshop for any graphical requirements in my projects.
+
+<br><br>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
 
@@ -51,8 +61,11 @@
 
 <br><br>
 
-<span align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+<p align="center">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+</div>
 
-</span>
+</p>
+
