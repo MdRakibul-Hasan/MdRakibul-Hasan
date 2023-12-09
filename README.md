@@ -6,11 +6,20 @@
 </p>
 
 
+
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MdRakibul-Hasan/repos?time_range=six_months&theme=dark)](https://githubtrends.io) -->
 ### 📘 Reach me out
-<p align="center"><a href="https://www.linkedin.com/in/wordpress-web-developer-remote/">
-  <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/link%20din.jpg" alt="Linkedin" width="120px" height="35px">
-</a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wordpress-web-developer-remote/">
+    <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/link%20din.jpg" alt="LinkedIn" width="120px" height="35px">
+  </a>
+  <a href="mailto:rakibulhassan847@gmail.com">
+    <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/gmail.jpg" alt="Email" width="120px" height="35px">
+  </a>
+   <a href="skype:rakibulhassan847?chat">
+    <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/skype.jpg" alt="skype:rakibulhassan847" width="120px" height="35px">
+  </a>
+</p>
 
 
 
