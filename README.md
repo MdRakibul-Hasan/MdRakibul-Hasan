@@ -3,6 +3,7 @@
     <img src="https://raw.githubusercontent.com/MdRakibul-Hasan/MdRakibul-Hasan/main/images/github%20cover%20final.gif" alt="GitHub Streak" />
   </a>
 </p>
+<br>
 
 ### 📘 Current stats
 <p align="center">
@@ -10,7 +11,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MdRakibul-Hasan&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
 </p>
-
+<br><br>
 
 
 
@@ -28,7 +29,7 @@
   </a>
 </p>
 
-
+<br><br>
 
 
 
@@ -39,3 +40,19 @@
     <img src="https://skillicons.dev/icons?i=js,arduino,c,cpp,css,firebase,git,github,html,ai,figma,linkedin,mongodb,ps,react,vercel,vite,vscode,wordpress,nodejs,nextjs,&theme=light" />
   </a>
 </p>
+
+<br><br>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+
+</p>
+
+
+<br><br>
+
+<span align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibul-Hasan&theme=dark" alt="GitHub Profile Summary" />
+
+</span>
